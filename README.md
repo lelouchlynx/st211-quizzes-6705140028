@@ -17,11 +17,11 @@ Repository containing quizzes, assignments, and weekly lab exercises for **192-2
 │   │   └── roman.py
 │   └── tests/
 │       └── test_roman.py
-├── quiz-01/                              # Practical Quiz 01 submission
+├── quiz-01/                              # Practical Quiz 01 template
 │   ├── README.md
 │   ├── solution.py
 │   └── test_solution.py
-├── quiz-02/                              # Practical Quiz 02 submission
+├── quiz-02/                              # Practical Quiz 02 template
 │   ├── README.md
 │   ├── solution.py
 │   └── test_solution.py
@@ -120,7 +120,7 @@ Repository containing quizzes, assignments, and weekly lab exercises for **192-2
 
 ### Quizzes & Group Projects
 
-- **`quiz-01` & `quiz-02`:** Practical quiz assessments and solutions.
+- **`quiz-01` & `quiz-02`:** Templates
 - **`Roman_Numeral_Converter`:** Group project implementing Roman numeral conversion with unit test coverage.
 
 ---
