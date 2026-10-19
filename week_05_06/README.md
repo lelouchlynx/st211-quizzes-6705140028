@@ -4,7 +4,7 @@ This folder contains lab exercises and practical tasks for Weeks 5 and 6 of **ST
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```text
 week_05_06/
@@ -33,7 +33,7 @@ week_05_06/
 
 ---
 
-## 🧪 Key Topics Covered
+## Key Topics Covered
 
 1. **Basic Parameterization (`test_param.py`, `test_factorial.py`)**
    - Running identical test functions against multiple input/output pairs using `@pytest.mark.parametrize`.
@@ -53,7 +53,7 @@ week_05_06/
 
 ---
 
-## 🚀 Running Tests
+## Running Tests
 
 Run pytest inside the `param_lab/` directory so relative data files (`logins.csv`, `test_cases.json`) resolve correctly:
 

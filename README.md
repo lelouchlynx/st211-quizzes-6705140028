@@ -6,7 +6,7 @@ Repository containing quizzes, assignments, and weekly lab exercises for **192-2
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 .
@@ -89,7 +89,7 @@ Repository containing quizzes, assignments, and weekly lab exercises for **192-2
 
 ---
 
-## 📚 Overview of Contents
+## Overview of Contents
 
 ### Weekly Labs
 
@@ -125,7 +125,7 @@ Repository containing quizzes, assignments, and weekly lab exercises for **192-2
 
 ---
 
-## 🚀 Running Tests
+## Running Tests
 
 You can run tests using `pytest` (or `python3 -m pytest`).
 
